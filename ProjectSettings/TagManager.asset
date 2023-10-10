@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bullet
   - Ball
+  - Arrow
   layers:
   - Default
   - TransparentFX
