@@ -10,11 +10,11 @@ public class GoalKeeper : MonoBehaviour
     void Update()
     {
         x = transform.position.x;
-        if (x > 3)
+        if (x > 3.2f)
         {
             speed = -speed;
         }
-        else if (x < -3)
+        else if (x < -3.2f)
         {
             speed = -speed;
         }
